@@ -109,7 +109,7 @@
                 <span class="hide-menu">Entradas</span>
               </a>
             </li>
-
+            <!-- 
             <li class="sidebar-item">
               <a class="sidebar-link" href="product_location.php">
                 <i class="ti ti-stack"></i>
@@ -130,7 +130,7 @@
                 <span class="hide-menu">Traslados</span>
               </a>  
             </li>
-
+            -->
           </ul>
         </li>
 
@@ -193,7 +193,7 @@
                 <span class="hide-menu">Usuarios</span>
               </a>
             </li>
-
+<!--
             <li class="sidebar-item">
               <a class="sidebar-link" href="group.php">
                 <i class="ti ti-users"></i>
@@ -228,7 +228,7 @@
                 <span class="hide-menu">Registrar</span>
               </a>
             </li>
-
+-->
           </ul>
         </li>
 
