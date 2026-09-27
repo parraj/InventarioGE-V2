@@ -1,0 +1,13 @@
+{
+  "short_name": "InventarioJT",
+  "name": "InventarioJT",
+  "icons": [
+    {
+      "src": "uploads/empresa.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
