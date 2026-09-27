@@ -1,9 +1,9 @@
 {
-  "short_name": "InventarioJT",
-  "name": "InventarioJT",
+  "short_name": "GE",
+  "name": "Gina Esscence",
   "icons": [
     {
-      "src": "uploads/empresa.jpg",
+      "src": "uploads/empresa.png",
       "sizes": "192x192",
       "type": "image/png"
     }
